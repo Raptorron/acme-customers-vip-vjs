@@ -1,0 +1,9 @@
+#VIP{
+  background-color: dodgerblue;
+  color: white;
+}
+#container{
+  width: 100%;
+  border: solid 1px black;
+  padding: 1rem;
+}
